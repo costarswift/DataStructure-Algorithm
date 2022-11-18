@@ -1,9 +1,9 @@
-package com.xaut.Nov_15_2022.LeetCode70;
+package com.xaut.Nov_15_2022;
 
 import java.util.HashMap;
 import java.util.Map;
 
-public class Solution {
+public class LeetCode70 {
     public static void main(String[] args) {
         long startMethod1 = System.currentTimeMillis();
         System.out.println(Method1(23));
