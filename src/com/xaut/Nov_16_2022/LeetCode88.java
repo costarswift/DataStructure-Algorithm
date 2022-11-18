@@ -1,8 +1,8 @@
-package com.xaut.Nov_16_2022.LeetCode88;
+package com.xaut.Nov_16_2022;
 
 import java.util.Arrays;
 
-public class solution {
+public class LeetCode88 {
     public static void main(String[] args) {
         int[] nums1 = {0,2,4,6,8,0,0,0,0,0};
         int[] nums2 = {1,3,5,7,9};

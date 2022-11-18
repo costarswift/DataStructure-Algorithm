@@ -1,11 +1,10 @@
-package com.xaut.Nov_16_2022.LeetCode1;
+package com.xaut.Nov_16_2022;
 
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 
-public class solution {
+public class LeetCode1 {
     public static void main(String[] args) {
         int[] nums = {1,3,2,14,22,15,9,12};
         System.out.println(Arrays.toString(Method1(nums, 11)));
