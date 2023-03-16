@@ -1,6 +1,8 @@
 package com.xaut.LeetCode98;
 
 
+import com.xaut.Library.TreeNode;
+
 public class solution {
     public static void main(String[] args) {
         TreeNode treeNode = new TreeNode();
