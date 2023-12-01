@@ -27,7 +27,7 @@ public class LeetCode470 {
     }
 
     private static int rand7() {
-        return new Random().nextInt(1,8);
+        return new Random().nextInt(7) + 1;
     }
 
 
